@@ -1,0 +1,56 @@
+[
+  {
+    "feature": "Age at enrollment",
+    "before": 0.3145,
+    "after": 0.3145,
+    "change": 0.0
+  },
+  {
+    "feature": "Admission grade",
+    "before": 0.0109,
+    "after": 0.0109,
+    "change": 0.0
+  },
+  {
+    "feature": "Tuition fees up to date",
+    "before": -0.761,
+    "after": -0.761,
+    "change": 0.0
+  },
+  {
+    "feature": "Scholarship holder",
+    "before": -0.2524,
+    "after": -0.2524,
+    "change": 0.0
+  },
+  {
+    "feature": "Curricular units 1st sem (approved)",
+    "before": -0.4488,
+    "after": -0.4488,
+    "change": 0.0
+  },
+  {
+    "feature": "Curricular units 1st sem (grade)",
+    "before": 0.0233,
+    "after": 0.0233,
+    "change": 0.0
+  },
+  {
+    "feature": "Curricular units 2nd sem (approved)",
+    "before": -1.7788,
+    "after": -1.7788,
+    "change": 0.0
+  },
+  {
+    "feature": "Curricular units 2nd sem (grade)",
+    "before": -0.5798,
+    "after": -0.5798,
+    "change": 0.0
+  },
+  {
+    "feature": "Curricular units 2nd sem (enrolled)",
+    "before": 1.3129,
+    "after": 1.3129,
+    "change": 0.0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "label": "High Risk Example",
+    "age_at_enrollment": 22,
+    "admission_grade": 110,
+    "tuition_fees_up_to_date": 0,
+    "scholarship_holder": 0,
+    "units_1st_sem_approved": 2,
+    "units_1st_sem_grade": 8.5,
+    "units_2nd_sem_approved": 1,
+    "units_2nd_sem_grade": 7.0,
+    "units_2nd_sem_enrolled": 6
+  },
+  {
+    "label": "Medium Risk Example",
+    "age_at_enrollment": 24,
+    "admission_grade": 125,
+    "tuition_fees_up_to_date": 1,
+    "scholarship_holder": 0,
+    "units_1st_sem_approved": 4,
+    "units_1st_sem_grade": 11.0,
+    "units_2nd_sem_approved": 3,
+    "units_2nd_sem_grade": 10.5,
+    "units_2nd_sem_enrolled": 6
+  },
+  {
+    "label": "Low Risk Example",
+    "age_at_enrollment": 19,
+    "admission_grade": 150,
+    "tuition_fees_up_to_date": 1,
+    "scholarship_holder": 1,
+    "units_1st_sem_approved": 6,
+    "units_1st_sem_grade": 14.5,
+    "units_2nd_sem_approved": 6,
+    "units_2nd_sem_grade": 15.0,
+    "units_2nd_sem_enrolled": 6
+  }
+]

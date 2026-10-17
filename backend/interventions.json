@@ -1,0 +1,22 @@
+[
+  {
+    "prediction_id": "e9ff6dcf-1edf-4a14-8afc-2822361616cb",
+    "interventions": [
+      "Continue regular academic monitoring and faculty mentoring."
+    ],
+    "agree": true,
+    "modified_intervention": null,
+    "timestamp": "2026-08-16T08:28:40.710336+00:00"
+  },
+  {
+    "prediction_id": "b4fd9584-eeee-41e7-a8eb-2581b391cecb",
+    "interventions": [
+      "Academic counseling: Review 2nd semester academic performance.",
+      "Academic support: Provide additional academic guidance for 1st semester subjects.",
+      "Scholarship support: Check whether the student is eligible for financial assistance."
+    ],
+    "agree": true,
+    "modified_intervention": null,
+    "timestamp": "2026-08-16T08:29:12.704422+00:00"
+  }
+]
